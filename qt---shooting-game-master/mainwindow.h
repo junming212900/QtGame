@@ -12,6 +12,8 @@
 
 #include "bullet.h"
 #include "bomb.h"
+#include "titlepage.h"
+#include "SignUppage.h"
 
 #include <QKeyEvent>
 class QLCDNumber;

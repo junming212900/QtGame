@@ -24,15 +24,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += \
+    SignUppage.cpp \
         main.cpp \
         mainwindow.cpp \
     bullet.cpp \
-    bomb.cpp
+    bomb.cpp \
+    titlepage.cpp
 
 HEADERS += \
+    SignUppage.h \
         mainwindow.h \
     bullet.h \
-    bomb.h
+    bomb.h \
+    titlepage.h
 
 FORMS += \
         mainwindow.ui
